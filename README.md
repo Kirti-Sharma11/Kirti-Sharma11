@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Kirti Sharma
 
-<!--
-**Kirti-Sharma11/Kirti-Sharma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student @ NIT Kurukshetra  
+🚀 Full Stack Developer | Competitive Programmer  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- C++ / JavaScript
+- React.js, Node.js
+- DSA & Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Student OS (Full Stack Platform)
+- Placement Tracker
+- Spotify Clone
+
+## 📊 GitHub Stats
+(you can add github stats badge)
+
+## 📫 Connect with me
+- LinkedIn
+- Email
